@@ -1,6 +1,6 @@
 ![Header](./Header.gif)
 ## Seja bem-vindo!
-### Meu nome é Giulia Johansson Rodrigues, atualmente estou cursando o 2º ano do ensino médio em Desenvolvimento de Sistemas no SESI SENAI. Meu objetivo é continuar estudando e atuar no mesmo setor que estou cursando.
+### Me chamo Giulia Johansson Rodrigues, atualmente estou cursando o 2º ano do ensino médio em Desenvolvimento de Sistemas no SESI SENAI. Meu objetivo é continuar estudando e atuar no mesmo setor que estou cursando.
 
 ## Em aprendizado
 <img src = "https://www.vectorlogo.zone/logos/github/github-icon.svg" widht = 50px/><img src = "https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" widht = 50px/> <img src = "https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" widht = 50px/>
