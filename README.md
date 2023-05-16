@@ -1,6 +1,5 @@
-![Header](./chuuheadernovo.png)
-
-## Olá, seja bem-vindo!
+![Header](./Header.gif)
+## Seja bem-vindo!
 ### Meu nome é Giulia Johansson Rodrigues, atualmente estou cursando o 2º ano do ensino médio em Desenvolvimento de Sistemas no SESI SENAI. Meu objetivo é continuar estudando e atuar no mesmo setor que estou cursando.
 
 ## Em aprendizado
