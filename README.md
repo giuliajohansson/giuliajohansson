@@ -1,4 +1,4 @@
-![Header](./Header.gif)
+![Header](./Header2.gif)
 ## Seja bem-vindo! <img src = "https://pixeloving.neocities.org/emoticons/sparkles/tumblr_inline_qicks5qRqQ1xq96li_500.gif" widht = 20px/>
 ### Me chamo Giulia Johansson Rodrigues, atualmente estou cursando o 3º ano do ensino médio em Desenvolvimento de Sistemas no SESI SENAI. Meu objetivo é continuar estudando e atuar no mesmo setor que estou cursando. <img src = "https://pixels.crd.co/assets/images/gallery39/fbb03029.gif?v=2942f085" widht = 20px/>
 
