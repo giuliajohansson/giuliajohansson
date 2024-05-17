@@ -4,7 +4,7 @@
 
 <img src = "https://gifcity.carrd.co/assets/images/gallery40/c642682d.gif?v=d55ea43d" widht = 20px/><img src = "https://gifcity.carrd.co/assets/images/gallery40/c642682d.gif?v=d55ea43d" widht = 20px/><img src = "https://gifcity.carrd.co/assets/images/gallery40/c642682d.gif?v=d55ea43d" widht = 20px/>
 
-## <img src = "https://pixels.crd.co/assets/images/gallery65/b1f27c2c.gif?v=2942f085" widht = 25px/> Ferramentas
+## <img src = "https://pixels.crd.co/assets/images/gallery126/46160ee4.gif?v=2942f085" widht = 25px/> Ferramentas
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -25,4 +25,4 @@
 <a href="https://www.linkedin.com/in/giulia-johansson-rodrigues-8b9972308/" target="_blank" style="text-decoration: none;"> <img src= "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://pt.duolingo.com/profile/hanniphamzinha" target="_blank" style="text-decoration: none;"> <img src= "https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white"></a>
 
-[![](https://visitcount.itsvg.in/api?id=giuliajohansson&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=giuliajohansson&label=Profile%20Views&color=2&icon=2&pretty=false)](https://visitcount.itsvg.in)
